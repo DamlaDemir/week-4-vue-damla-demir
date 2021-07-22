@@ -2,7 +2,7 @@
   <div class="starship-list-wrapper">
     <fieldset class="starship-filter main-fieldset">
       <legend>Filter</legend>
-      <div className="form-item">
+      <div class="form-item">
         <label for="name">Search:</label>
         <input
           type="text"
